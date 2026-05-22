@@ -18,6 +18,7 @@ streamlit run psychological_suite.py
 ## Requirements
 - streamlit
 - plotly
+- pandas
 
 ## Disclaimer
 This tool is for screening purposes only and is **not** a substitute for clinical diagnosis.
